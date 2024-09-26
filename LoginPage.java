@@ -28,6 +28,7 @@ public class LoginPage
         b1.setBounds(100,400,100,50);
         JButton b2=new JButton("Cancel");
         b2.setBounds(350,400,100,50);
+       
         //Buttons creation starts from here.
         
         bp1.addActionListener(new ActionListener()
