@@ -1,3 +1,5 @@
+//This is a simple java Login Application Page created using "Swing concept".
+
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
