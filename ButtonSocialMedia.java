@@ -1,3 +1,6 @@
+//This programme demonstrates about the 'Button Social Media'.
+//(6 social media platform buttons, when clicked, “Hi, username, Welcome to social_media_name” - message will pop up.)
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionListener;
