@@ -1,4 +1,4 @@
-//This programme demonstrates to create a human face using "Swing" concept in Java.
+//This programme demonstrates to create a 'Human Face' using "Swing" concept in Java.
 
 import javax.swing.*;
 import java.awt.Graphics;
