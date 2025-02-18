@@ -21,11 +21,12 @@
 ```bash
 git clone https://github.com/RohithReddyGK/Interactive-Java-Applications-Using-Swing-and-Servlet.git
 cd //To project directory.
+```bash
 
 2. Set up dependencies
 You will need Java JDK and a Servlet container (e.g., Apache Tomcat) to run this project.
 
-Download and install Java (if you haven't already) from here.
+Download and install Java (if you haven't already).
 Set up Apache Tomcat or your preferred servlet container.
 
 3. Run the project
