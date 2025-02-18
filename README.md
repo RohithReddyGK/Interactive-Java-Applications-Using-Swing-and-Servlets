@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to Interactive-Java-Applications-Using-Swing-and-Servlets 👋</h1>
+<h1 align="center">Welcome to Interactive-☕Java-Applications-Using-Swing-and-Servlets 👋</h1>
 <p>
 </p>
 
@@ -55,6 +55,5 @@ LinkedIn: [@rohithreddygk](https://linkedin.com/in/rohithreddygk)
 Give a ⭐️ if this project helped you!
 
 ---
-_This README was created and customized by **Rohith Reddy.G.K**._
 
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
