@@ -2,37 +2,40 @@
 <p>
 </p>
 
-> <h4>The Java Swing and Servlet Applications project focuses on creating user-friendly and interactive interfaces using Java Swing for various applications, including Login Pages, Application Forms, and Student Details. The project also explores advanced Java concepts by integrating Java Servlets for server-side logic, ensuring seamless backend processing.</h4>
+## Project Description
 
-> <h4>A creative feature was developed to simulate a human face using Swing, showcasing the capability of Swing components to build engaging visuals. Additionally, interactive social media buttons were implemented to enhance the user experience. The project highlights proficiency in both front-end design (Swing) and back-end integration (Java Servlets), making it a full-stack Java-based application.</h4>
+This project demonstrates the creation of **user-friendly interfaces** using **Java Swing** for various applications like **Login Pages**, **Application Forms**, and **Student Details**. It also integrates **Java Servlets** to manage server-side logic and backend data processing.
+
+A standout feature of the project is a **human face simulation** created using Swing, showcasing Swing components' visual capabilities. Additionally, **interactive social media buttons** were implemented to enhance user interaction.
+
+The project highlights expertise in both **front-end development** (Swing) and **back-end integration** (Java Servlets), making it a comprehensive **full-stack Java application**.
 
 ## Features
 
 - **Login Page:** Secure login functionality with form validation.
 - **Application Form:** Collect user data via interactive forms.
 - **Student Details:** View and manage student information.
-- **Human Face Simulation:** Unique feature simulating a human face using Swing components.
+- **Human Face Simulation:** Feature simulating a human face using Swing components.
 - **Social Media Buttons:** Interactive buttons linking to social media platforms.
 - **Server-side Integration:** Backend processing and data management using **Java Servlets**.
 
 ## Installation
 
-1. Clone the repository
-```bash
-git clone https://github.com/RohithReddyGK/Interactive-Java-Applications-Using-Swing-and-Servlet.git
-cd //To project directory.
-```bash
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/RohithReddyGK/Interactive-Java-Applications-Using-Swing-and-Servlet.git
+    cd Interactive-Java-Applications-Using-Swing-and-Servlet
+    ```
 
-2. Set up dependencies
-You will need Java JDK and a Servlet container (e.g., Apache Tomcat) to run this project.
+2. Set up dependencies:
+    - You will need **Java JDK** and a **Servlet container** (e.g., **Apache Tomcat**) to run this project.
+    - Download and install **Java** (if you haven't already).
+    - Set up **Apache Tomcat** or your preferred servlet container.
 
-Download and install Java (if you haven't already).
-Set up Apache Tomcat or your preferred servlet container.
-
-3. Run the project
-Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
-Ensure Tomcat is configured for running servlets.
-Run the project and navigate to the appropriate URL in your browser.
+3. Run the project:
+    - Open the project in your preferred IDE (e.g., IntelliJ IDEA, Eclipse).
+    - Ensure **Tomcat** is configured for running servlets.
+    - Run the project and navigate to the appropriate URL in your browser.
 
 ## Technologies Used
 
@@ -43,14 +46,15 @@ Run the project and navigate to the appropriate URL in your browser.
 
 ## Author
 
-👤 **Rohith Reddy.G.K**
+👤 **Rohith Reddy.G.K**  
+Github: [@RohithReddyGK](https://github.com/RohithReddyGK)  
+LinkedIn: [@rohithreddygk](https://linkedin.com/in/rohithreddygk)
 
-* Github: [@RohithReddyGK](https://github.com/RohithReddyGK)
-* LinkedIn: [@rohithreddygk](https://linkedin.com/in/rohithreddygk)
-
-## Show your support
+## Show Your Support
 
 Give a ⭐️ if this project helped you!
 
-***
+---
+_This README was created and customized by **Rohith Reddy.G.K**._
+
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
