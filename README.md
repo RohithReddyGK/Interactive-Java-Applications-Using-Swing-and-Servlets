@@ -52,6 +52,6 @@ LinkedIn: [@rohithreddygk](https://linkedin.com/in/rohithreddygk)
 
 ## Show Your Support
 
-Give a ⭐️ if this project helped you!
+Give a ⭐️ if you like this project!
 
 ---
