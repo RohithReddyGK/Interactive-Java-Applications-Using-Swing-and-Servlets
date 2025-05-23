@@ -1,6 +1,9 @@
 <h1 align="center">Welcome to Interactive-☕Java-Applications-Using-Swing-and-Servlets 👋</h1>
-<p>
-</p>
+
+![Language](https://img.shields.io/badge/language-Java-orange)
+![UI](https://img.shields.io/badge/interface-Swing-blueviolet)
+![Backend](https://img.shields.io/badge/backend-Servlets-darkred)
+![Frontend](https://img.shields.io/badge/frontend-HTML-lightgrey)
 
 ## Project Description
 
